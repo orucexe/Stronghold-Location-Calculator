@@ -33,7 +33,7 @@ ORUCEXE_SLC is a Qt/C++ application designed to help locate Minecraft stronghold
 
 **Steps:**
 ```bash
-git clone https://github.com/username/ORUCEXE_SLC.git
+git clone https://github.com/orucexe/Stronghold-Location-Calculator.git
 cd ORUCEXE_SLC
 mkdir build && cd build
 cmake .. -G "MinGW Makefiles"
